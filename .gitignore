@@ -1,2 +1,10 @@
 output/
 mot_benchmark
+config.py
+*.amltmp
+*.mp4
+*.png
+*.jpg
+*.jpeg
+*.pyc
+capacetes-coco.json
